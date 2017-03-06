@@ -1,0 +1,15 @@
+html {
+	background: lightblue;
+	padding: 20px;
+}
+
+h1 {
+	font-family: 'Harmattan', sans-serif;
+	font-size: 1.3em;
+	padding: 15px;
+}
+
+#switch img {
+	width: 100%;
+	height: 450px;
+}
